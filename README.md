@@ -16,9 +16,8 @@
 
 <br/>  
   
-</div><h3 align="left">Stars</h3>
-<p>&nbsp;<img align="center" height="165em" src="https://github-readme-stats.vercel.app/api?username=JelielFernandes&show_icons=true&locale=en&theme=nord" alt="JelielFernandes" />
-<img align="right" height="165em" src="https://github-readme-streak-stats.herokuapp.com/?user=JelielFernandes&theme=nord" alt="JelielFernandes" /></p>
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 <br/>  
 
@@ -58,4 +57,4 @@
 
 ###
 
-![snake animation](https://github.com/<JelielFernanes>/<JelielFernandes>/blob/output/github-contribution-grid-snake2.svg)
+
