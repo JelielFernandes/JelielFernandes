@@ -58,4 +58,4 @@
 
 ###
 
-![Snake animation](https://github.com/{{your_username}}/{{your_username}}/blob/output/github-contribution-grid-snake.svg) https://blog.arnabghosh.me/add-github-dark-snake-animation-readme
+![snake animation](https://github.com/<JelielFernanes>/<JelielFernandes>/blob/output/github-contribution-grid-snake2.svg)
