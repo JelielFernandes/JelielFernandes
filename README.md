@@ -17,8 +17,8 @@
 <br/>  
   
 </div><h3 align="left">Stars</h3>
-<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=JelielFernandes&show_icons=true&locale=en&theme=nord" alt="JelielFernandes" />
-<img align="right" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=JelielFernandes&theme=nord" alt="JelielFernandes" /></p>
+<p>&nbsp;<img align="center" height="165em" src="https://github-readme-stats.vercel.app/api?username=JelielFernandes&show_icons=true&locale=en&theme=nord" alt="JelielFernandes" />
+<img align="right" height="165em" src="https://github-readme-streak-stats.herokuapp.com/?user=JelielFernandes&theme=nord" alt="JelielFernandes" /></p>
 
 <br/>  
 
