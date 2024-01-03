@@ -7,10 +7,17 @@
 - 🎓 I’m currently studying on [Unifenas](https://www.unifenas.br)  
   
 
-- 🌱 I'm currently learning C# and .NET Framework  
-  
+🌱 Learning the art of coding with a focus on:
 
-- ⚡ Fun fact: I use tabs over spaces  
+- C# & .NET Framework: Crafting robust applications and diving deep into the world of Microsoft technologies.
+
+- Mobile Development: Exploring the dynamic realms of mobile app creation using Kotlin, Flutter for Android, and delving into the world of versatile mobile solutions.
+
+- C# Back End with .NET: Architecting powerful back-end systems with C# and leveraging the capabilities of the .NET framework.
+
+⚡ Fun fact: I have a strong stance in the tabs vs. spaces debate (Tabs, of course! 😉).
+
+  Let's code together and build something extraordinary! 🚀 
   
 
 <br/>  
